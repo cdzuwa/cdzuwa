@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 Welcome to my GitHub profile. I am Christopher Dzuwa, a **Machine Learning (ML) and Extended Reality (XR) Researcher** , specializing in Generative AI for construction and safety training simulation tools.My skillset comprises Fortran, C/C++, Python, JS/TS, Wolfram, C#, and Matlab,SQL, Java and many more.As a professional, I strive to create innovative solutions that contribute to advancing the state-of-the-art in ML and XR
+🎓 Welcome to my GitHub profile. I am Christopher Dzuwa, a **Machine Learning (ML) and Extended Reality (XR) Researcher** , specializing in Generative AI for construction and safety training simulation tools.My skillset comprises Fortran, Assembly, C/C++, Python, JS/TS, Wolfram, C#, and Matlab,SQL,R, Java and many more.As a professional, I strive to create innovative solutions that contribute to advancing the state-of-the-art in ML and XR
 
 👨‍💻 I enjoy contributing to **Open Source Projects** and working on some cool stuff.
 
