@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 Welcome to my GitHub profile. I am Christopher Dzuwa, a **Machine Learning (ML) and Extended Reality (XR) Enthusiast** .My skillset comprises Fortran, Assembly, C/C++, Python, JS/TS, Wolfram Mathematica, C#, and Matlab,SQL,R, Java and many more.As a professional, I strive to create innovative solutions that contribute to advancing the state-of-the-art in ML and XR. I am particularly interested in applying concepts from pure mathematics to solve engineering problems. My primary areas of focus include Group Theory, Graph Theory, Measure Theory, Metric Spaces, and Mathematical Statistics.
+🎓 Welcome to my GitHub profile. I am Christopher Dzuwa, a **Machine Learning (ML) and Extended Reality (XR) Enthusiast**. I am particularly interested in applying concepts from pure mathematics to solve engineering problems. My primary areas of interest include Group Theory, Graph Theory, Measure Theory, Metric Spaces, and Mathematical Statistics.
 
 👨‍💻 I enjoy contributing to **Open Source Projects** and working on some cool stuff.
 
