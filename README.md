@@ -2,22 +2,29 @@
 
 ## 🚀 About Me
 
-🎓 Welcome to my GitHub profile. I am Christopher Dzuwa, a **Machine Learning (ML) and Extended Reality (XR) Enthusiast**. I am particularly interested in applying concepts from pure mathematics to solve engineering problems. My primary areas of interest include Group Theory, Graph Theory, Measure Theory, Metric Spaces, and Mathematical Statistics.
+🎓 Welcome! I'm **Christopher Dzuwa**, a passionate **Machine Learning (ML)** and **Extended Reality (XR)** Researcher. My interests lie in leveraging concepts from pure mathematics to tackle real-world engineering challenges. I particularly enjoy exploring:
 
-👨‍💻 I enjoy contributing to **Open Source Projects** and working on some cool stuff.
+- **Group Theory**
+- **Graph Theory**
+- **Measure Theory**
+- **Metric Spaces**
+- **Mathematical Statistics**
 
+👨‍💻 In my professional life, I contribute to the **development of standards**, including those related to **AI/ML**, among others.
 
-📚 I also love reading books and some of my favourite include **Probabilistic Machine Learning by Kevin P. Murphy**, **Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville**,**Mathematics for Machine Learning by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong**, **Nonlinear Dynamics and Chaos: With Applications to Physics, Biology, Chemistry, and Engineering by Steven H. Strogatz**, and **High Performance Computing by John Levesque**
+🔧 I actively contribute to **open source projects** and enjoy building tools and experimenting with innovative ideas.
 
+📚 I'm also an avid reader. Check out my curated reading list for ML practitioners [here](https://github.com/cdzuwa/Machine-Learning-Knowledge-Vault). I highly recommend it for anyone serious about deepening their understanding of machine learning. The list is continuously updated.
 
-
+---
 
 ## 🖥️ Workspace Setup
 
-![i5-8th-gen](https://img.shields.io/badge/AMD%20-RYZEN-white)
-![gtx-1060](https://img.shields.io/badge/NVIDIA-RTX%203050-white)
-![windows](https://img.shields.io/badge/WINDOWS-11-white)
-![vs-code](https://img.shields.io/badge/JETBRAINS%20PROFESSIONAL-TOOLS-white)
+![AMD-RYZEN](https://img.shields.io/badge/AMD-RYZEN-white)
+![NVIDIA-RTX3050](https://img.shields.io/badge/NVIDIA-RTX%203050-white)
+![Windows-11](https://img.shields.io/badge/WINDOWS-11-white)
+![JetBrains](https://img.shields.io/badge/JETBRAINS-Professional%20Tools-white)
 
+---
 
-Thank you for visiting my profile. I hope you find something useful here. 🥺
+Thank you for stopping by! I hope you find something insightful or helpful here. 😊
